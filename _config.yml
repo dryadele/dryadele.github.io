@@ -1,7 +1,8 @@
 title: Dryade's Corner
 description:
   This is a space for me to write about whatever I want without people knowing who I am.
-baseurl: "dryadele.github.io"
+baseurl: ""
+url: "https://dryadele.github.io"
 
 theme: minima
 plugins:
