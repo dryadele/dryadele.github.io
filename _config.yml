@@ -1,2 +1,12 @@
-theme: jekyll-theme-cayman
-title: Dryade's homepage
+title: Dryade's Corner
+description:
+  This is a space for me to write about whatever I want without people knowing who I am.
+baseurl: "dryadele.github.io"
+url: "http://dryadele.com"
+
+theme: minima
+plugins:
+  - jekyll-feed
+include:
+  - _pages
+  - _assets
